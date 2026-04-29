@@ -9,7 +9,7 @@
       <div id="container">
           <header>      
            <h1> perez cisneros amiyumi flores segundo jesus</h1> 
-           <h1> Cultura Digital</h1>
+           <h1> PAEC </h1>
 
           </header>
            <nav>
